@@ -1,5 +1,9 @@
 function Home() {
-    return <h2>Yasmin M., pede com jeitinho que eu te faço um carinho! Amizade é pra isso ❤️</h2>
+  return <h2>❤️</h2>;
+}
+
+function teste() {
+  console.log("what to do?");
 }
 
 export default Home;
