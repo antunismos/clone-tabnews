@@ -1,9 +1,9 @@
 function Home() {
-  return <h2>❤️</h2>;
-}
-
-function teste() {
-  console.log("what to do?");
+  return (
+    <head>
+      <title>DevStories</title>
+    </head>
+  );
 }
 
 export default Home;
